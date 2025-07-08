@@ -64,7 +64,7 @@ To classify chest X-ray images into **Pneumonia** or **Normal** using a pretrain
 
 ## 📦 Files Included
 - `ICMR_Pneumonia_Presentation.pptx`: 3-slide summary presentation
-- - `ICMR_Project.ipynb`: Full training, evaluation, and model pipeline
+- `ICMR_Project.ipynb`: Full training, evaluation, and model pipeline
 - `README.md`: Project description and evaluation summary
 
 ---
